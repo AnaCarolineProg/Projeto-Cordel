@@ -71,14 +71,15 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 600px;
     background-color: rgba(0, 0, 0, 0.466);
+    width: 600px;
+    text-shadow: 1px 1px 0px black;
+    background-position: right center;
+    background-size: cover;
 }
 
 section#img01 {
     background-image: url(../estilo/background001.jpg);
-    background-position: right center;
-    background-size: cover;
 }
 
 section#img02 {
