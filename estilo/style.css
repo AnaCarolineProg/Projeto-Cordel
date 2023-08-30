@@ -52,7 +52,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 2.75vw;
+    font-size: 3vw;
 }
 
 section > p {
@@ -62,7 +62,7 @@ section > p {
 section.normal {
     background-color: rgba(129, 170, 170, 0.897);
     color: black;
-    text-shadow: 1px 1px 0px rgb(17, 14, 14);
+    text-shadow: 0.5px 0.5px 0px rgb(17, 14, 14);
 }
 
 section.imagem {
