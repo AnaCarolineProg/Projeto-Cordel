@@ -60,7 +60,7 @@ section > p {
 }
 
 section.normal {
-    background-color: white;
+    background-color: rgba(129, 170, 170, 0.897);
     color: black;
 }
 
