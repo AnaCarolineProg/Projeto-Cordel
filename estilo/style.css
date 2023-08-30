@@ -72,18 +72,20 @@ section.imagem {
 
 section.imagem > p {
     background-color: rgba(0, 0, 0, 0.466);
-    width: 600px;
+    padding: 5px;
     text-shadow: 1px 1px 0px black;
-    background-position: right center;
-    background-size: cover;
+    
 }
 
 section#img01 {
     background-image: url(../estilo/background001.jpg);
+    background-position: right center;
+    background-size: cover;
 }
 
 section#img02 {
     background-image: url(../estilo/background002.jpg);
+    background-size: cover;
 }
 
 footer {
