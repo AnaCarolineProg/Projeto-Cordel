@@ -65,14 +65,14 @@ section.normal {
 }
 
 section.imagem {
-    display: inline-block;
     background-color: rgb(24, 3, 3);
     color: white;
 }
 
 section.imagem > p {
-    background-color: rgba(0, 0, 0, 0.466);
+    display: inline-block;
     padding: 5px;
+    background-color: rgba(0, 0, 0, 0.466);
     text-shadow: 1px 1px 0px black;
     
 }
